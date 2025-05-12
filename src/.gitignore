@@ -1,0 +1,6 @@
+# Ignorar archivos del IDE (Eclipse, IntelliJ, etc.)
+.idea/
+*.iml
+*.class
+bin/
+out/
